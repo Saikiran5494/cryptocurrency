@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.item-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.logo {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+.name {
+  color: #ffffff;
+  margin-right: 80px;
+  text-align: end;
+}
+.value {
+  font-size: 10px;
+  color: #ffffff;
+  margin-right: 40px;
+}
